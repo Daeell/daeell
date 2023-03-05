@@ -1,5 +1,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Hello%20I'm%20Daeell&fontSize=90)
+
+### 👋 반갑습니다!
+
+[![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://velog.io/@daelkdev)](https://velog.io/@daelkdev)
+
+* 😎 나만의 일을 찾기위해 열심히 노력중입니다.
+
+👀 I’m interested in **Clean Code, OOP, Computer Science**   
+🌱 I’m currently learning **Java, Spring**   
+💞️ I’m looking to collaborate on **Anywhere**   
+📫 How to reach me : daelkdev@gmail.com 
+
 ![daeell's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeell&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syword1111)](https://solved.ac/{handle})
