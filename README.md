@@ -7,8 +7,8 @@
 
 * 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
-👀 I’m interested in **Clean Code, OOP, Computer Science**   
-🌱 I’m currently learning **Java, Spring**   
+👀 I’m interested in **Computer Science, Restful API**   
+🌱 I’m currently learning **Java, Spring, Python, Django**   
 💞️ I’m looking to collaborate on **Anywhere**   
 📫 How to reach me : daelkdev@gmail.com 
 
