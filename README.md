@@ -5,7 +5,7 @@
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://velog.io/@daelkdev)](https://velog.io/@daelkdev)
 
-* 😎 생성형 AI에 관심을 갖고 적절한 서비스를 제공하기 위한 백엔드 서버를 구축하고 있습니다.
+* 😎 생성형 AI에 관심을 갖고 적절한 서비스를 제공할 수 있는 백엔드 서버를 구축하고 있습니다.
 
 👀 I’m interested in **Computer Science, Sentence Transeformer, VectorDB, sLLM**   
 🌱 I’m currently learning **Python, FastApi, sLLM, LangChain**   
