@@ -7,8 +7,8 @@
 
 * 😎 생성형 AI를 접목한 서비스를 개발하고 있습니다.
 
-👀 I’m interested in **sLLM, NLP, Sentence Transeformer, RAG, Gen Ai, LLM Serving Server**   
-🌱 I’m currently learning **Python, Langchain, NLP, Math**   
+👀 I’m interested in **LLM, Sentence Transeformer, RAG, Gen Ai, LLM Serving Backend**   
+🌱 I’m currently learning **Python, NLP, Pytorch, Math, LLM**   
 💞️ I’m looking to collaborate on **Anywhere**   
 📫 How to reach me : daelkdev@gmail.com 
 
