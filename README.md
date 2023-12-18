@@ -8,7 +8,7 @@
 * 😎 생성형 AI를 접목한 서비스를 개발하고 있습니다.
 
 👀 I’m interested in **RAG, Gen Ai, LLM Backend, AWS**   
-🌱 I’m currently learning **Python, FastApi, Pytorch**   
+🌱 I’m currently learning **Python, FastApi, PostegreSQl, Data Structures**   
 💞️ I’m looking to collaborate on **Anywhere**   
 📫 How to reach me : daelkdev@gmail.com 
 
