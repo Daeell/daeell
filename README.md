@@ -7,8 +7,8 @@
 
 * 😎 차량 데이터 수집 및 분석을 위한 서버 시스템 개발 및 최적화를 진행하고 있습니다.
 
-👀 I’m interested in **Python, Kafka, Faust, MongoDB**   
-🌱 I’m currently learning **Python, Streaming Processing, Parallelism Programming**
+👀 I’m interested in **Python, Kafka, Faust, MongoDB**  
+🌱 I’m currently learning **Python, Streaming Processing, Parallelism Programming**  
 💞️ I’m looking to collaborate on **Anywhere**   
 📫 How to reach me : daelkdev@gmail.com 
 
