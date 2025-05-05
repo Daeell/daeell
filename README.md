@@ -5,10 +5,9 @@
 
 [![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white&link=https://velog.io/@daelkdev)](https://velog.io/@daelkdev)
 
-* 😎 생성형 AI를 접목한 서비스를 개발하고 있습니다.
+* 😎 차량 데이터 수집 및 분석을 위한 서버 시스템 개발 및 최적화를 진행하고 있습니다.
 
-👀 I’m interested in **RAG, Gen Ai, LLM Backend, AWS**   
-🌱 I’m currently learning **Python, FastApi, PostegreSQl, Data Structures**   
+👀 I’m interested in **Python, Kafka, Faust, MongoDB**   
 💞️ I’m looking to collaborate on **Anywhere**   
 📫 How to reach me : daelkdev@gmail.com 
 
